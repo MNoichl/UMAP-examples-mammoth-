@@ -12,6 +12,7 @@ The Jupyter-Notebook contains code to produce embeddings, which are continously 
 
 ![](anim_nearest_neighbours.gif)
 
-## And here are 2D-embeddings of it with shifting hyperparameters:
+## And this is the T-Rex, and a series of embeddings with different random-states
+![](T-rex-render.png)
+![](t-rex-random.gif)
 
-t-rex-random.gif]
