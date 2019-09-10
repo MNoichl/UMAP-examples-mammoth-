@@ -13,6 +13,6 @@ The Jupyter-Notebook contains code to produce embeddings, which are continously 
 ![](anim_nearest_neighbours.gif)
 
 ## And this is the T-Rex, and a series of embeddings with different random-states
-![](T-rex-render.png)
+![](T-rex_render.png)
 ![](t-rex-random.gif)
 
